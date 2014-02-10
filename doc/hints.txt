@@ -1,0 +1,2 @@
+get file type:
+>mdls <file>
