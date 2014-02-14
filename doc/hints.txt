@@ -1,2 +1,9 @@
+git
+-----------------------
+git push -u github master
+
+
+other
+-----------------------
 get file type:
 >mdls <file>

@@ -1,0 +1,7 @@
+phone		message start
+phone	rings	task
+human	take phone	task
+human	talk	task
+human	hang up	task
+phone	disconnect	task
+phone		end
