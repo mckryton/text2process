@@ -13,9 +13,14 @@ business process steps and uses OmniGraffle to draw this process.
 # installation
 
 At the moment there is no install script available. So copy these files manually:
-scripts/text2process.scpt -> ~/Library/Scripts/Applications/OmniGraffle Pro
-templates/process template.gtemplate -> ~/Library/Application Support/The Omni Group/OmniGraffle/Templates
-
+<table>
+<tr>
+<td>scripts/text2process.scpt</td><td>-></td><td>~/Library/Scripts/Applications/OmniGraffle Pro<|td>
+</tr>
+<tr>
+<td>templates/process template.gtemplate</td><td>-></td><td>~/Library/Application Support/The Omni Group/OmniGraffle/Templates</td>
+</tr>
+</table>
 
 # usage
 
