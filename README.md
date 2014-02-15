@@ -29,7 +29,7 @@ At the moment there is no install script available. So copy these files manually
 
 # usage
 
-1. write your process as text 
+1. write your process as text (use comma as delimiter, use \, to escape commas in text)
     * col1: unique id (e.g. number)
     * col2: name of swimlane
     * col3: description
