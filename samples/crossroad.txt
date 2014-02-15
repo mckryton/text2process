@@ -1,0 +1,10 @@
+1,driver,,start
+2,driver,drive on road,task
+3,driver,arrive at crossroad,task
+4,driver,watch traffic light,task
+5,traffic light,,gateway
+6,driver,,exclusive gateway
+7,driver,pass crossroad,task
+8,driver,,end
+9,traffic light,,timer intermediate non-interrupting,5
+10,traffic light,switch to green,task

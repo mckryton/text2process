@@ -1,3 +1,8 @@
+# status
+* early development
+* script is not usable
+
+
 # about
 
 text2process is a script that reads a comma separated textfile containing 
@@ -25,9 +30,11 @@ At the moment there is no install script available. So copy these files manually
 # usage
 
 1. write your process as text 
-    * col1: name of swimlane
-    * col2: description
-    * col3: type of shape (e.g. start, task, end)
+    * col1: unique id (e.g. number)
+    * col2: name of swimlane
+    * col3: description
+    * col4: type of shape (e.g. start, task, end; see user data of shapes for available types)
+    * col5: id of previous step (optional for alternative connections)
     (see samples/phone call.txt)
 2. open OmniGraffle
 3. run text2process from the Applescript menu
