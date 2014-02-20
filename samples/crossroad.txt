@@ -3,6 +3,8 @@
 3,driver,arrive at crossroad,task
 4,driver,watch traffic light,task
 5,traffic light,,gateway
+11,down1,dummy,task
+12,down2,dummy,task
 6,driver,,exclusive gateway
 7,driver,pass crossroad,task
 8,driver,,end
