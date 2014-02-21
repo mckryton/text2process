@@ -3,11 +3,9 @@
 3,driver,arrive at crossroad,task
 4,driver,watch traffic light,task
 5,traffic light,,gateway
-10,traffic light,show red light,task
 11,traffic light,,timer intermediate non-interrupting
 12,traffic light,switch traffic light,task
-13,traffic light,show green light,task
 7,driver,,exclusive gateway
 8,driver,pass crossroad,task
 9,driver,,end
-6,traffic light,show green light,task,5
+7,driver,,exclusive gateway,5
