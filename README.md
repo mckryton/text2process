@@ -27,6 +27,8 @@ At the moment there is no install script available. So copy these files manually
 </tr>
 </table>
 
+Note: the location of Omnigraffles template directory depends on version of MacOS and Omnigraffle!
+
 # usage
 
 1. write your process as text (use comma as delimiter, use \, to escape commas in text)
@@ -44,3 +46,4 @@ At the moment there is no install script available. So copy these files manually
 # limitations
 
 * support of gateways is not yet implemented
+* it's not possible to choose the connection type
