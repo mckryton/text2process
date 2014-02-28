@@ -27,9 +27,9 @@ At the moment there is no install script available. So copy these files manually
 </tr>
 </table>
 
-Note: the location of Omnigraffles template directory depends on version of MacOS and Omnigraffle! 
-Hint: if Omnigraffle doesn't recognize the template it might help to remove the ".gtemplate" extension.
-Note: Of course you can run the text2process script from any location. 
+* Note: the location of Omnigraffles template directory depends on version of MacOS and Omnigraffle! 
+* Hint: if Omnigraffle doesn't recognize the template it might help to remove the ".gtemplate" extension.
+* Note: Of course you can run the text2process script from any location. 
 
 
 # usage
