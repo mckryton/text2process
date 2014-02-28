@@ -1,6 +1,6 @@
 # status
 * early development
-* script is not usable
+* functionality is limited (see limitations) 
 
 
 # about
@@ -27,7 +27,10 @@ At the moment there is no install script available. So copy these files manually
 </tr>
 </table>
 
-Note: the location of Omnigraffles template directory depends on version of MacOS and Omnigraffle!
+Note: the location of Omnigraffles template directory depends on version of MacOS and Omnigraffle! 
+Hint: if Omnigraffle doesn't recognize the template it might help to remove the ".gtemplate" extension.
+Note: Of course you can run the text2process script from any location. 
+
 
 # usage
 
@@ -45,5 +48,6 @@ Note: the location of Omnigraffles template directory depends on version of MacO
 
 # limitations
 
-* support of gateways is not yet implemented
 * it's not possible to choose the connection type
+* no support for complex charts like sub-processes and choregaphies
+* automatic linking for multiple connections has to be improved
