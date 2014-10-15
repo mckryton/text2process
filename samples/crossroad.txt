@@ -8,4 +8,3 @@
 8,driver,,exclusive gateway
 9,driver,pass crossroad,task
 10,driver,,end
-8,driver,,exclusive gateway,5
