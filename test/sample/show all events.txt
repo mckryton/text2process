@@ -1,0 +1,50 @@
+1,none,,start
+54,none,,end
+2,message,,message start
+3,message,,message start non-interrupting
+4,message,,message intermediate
+5,message,,message intermediate non-interrupting
+6,message,,message intermediate throwing
+7,message,,message end
+8,timer,,timer start
+9,timer,,timer start non-interrupting
+10,timer,,timer intermediate
+11,timer,,timer intermediate non-interrupting
+13,escalation,,escalation start
+14,escalation,,escalation start non-interrupting
+15,escalation,,escalation intermediate
+16,escalation,,escalation intermediate non-interrupting
+17,escalation,,escalation intermediate throwing
+18,escalation,,escalation end
+19,conditional,,conditional start
+20,conditional,,conditional start non-interrupting
+21,conditional,,conditional intermediate
+22,conditional,,conditional intermediate non-interrupting
+24,link,,link intermediate
+25,link,,link intermediate throwing
+26,error,,error start
+27,error,,error intermediate
+28,error,,error end
+29,cancel,,cancel intermediate
+30,cancel,,cancel end
+31,compensation,,compensation start
+32,compensation,,compensation intermediate
+33,compensation,,compensation intermediate throwing
+34,compensation,,compensation end
+35,signal,,signal start
+36,signal,,signal start non-interrupting
+37,signal,,signal intermediate
+38,signal,,signal intermediate non-interrupting
+39,signal,,signal intermediate throwing
+40,signal,,signal end
+41,multiple,,multiple start
+42,multiple,,multiple start non-interrupting
+43,multiple,,multiple intermediate
+44,multiple,,multiple intermediate non-interrupting
+45,multiple,,multiple intermediate throwing
+46,multiple,,multiple end
+47,parallel multiple,,parallel multiple start
+48,parallel multiple,,parallel multiple start non-interrupting
+49,parallel multiple,,parallel multiple intermediate
+50,parallel multiple,,parallel multiple intermediate non-interrupting
+55,terminate,,terminate end
