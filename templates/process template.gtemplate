@@ -26,7 +26,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-04-26 16:11:16 +0000</string>
+	<string>2016-05-03 09:21:39 +0000</string>
 	<key>Modifier</key>
 	<string>mac</string>
 	<key>NotesVisible</key>
@@ -5330,9 +5330,9 @@ aufgabe\
 					<key>UserInfo</key>
 					<dict>
 						<key>offset_x</key>
-						<string>-14,145874023438</string>
+						<string>-7</string>
 						<key>offset_y</key>
-						<string>-14,029907226562</string>
+						<string>-7</string>
 						<key>type</key>
 						<string>complex gateway</string>
 					</dict>
@@ -5370,9 +5370,9 @@ aufgabe\
 					<key>UserInfo</key>
 					<dict>
 						<key>offset_x</key>
-						<string>-14,145874023438</string>
+						<string>-7</string>
 						<key>offset_y</key>
-						<string>-14,029907226562</string>
+						<string>-7</string>
 						<key>type</key>
 						<string>complex gateway</string>
 					</dict>
@@ -5410,9 +5410,9 @@ aufgabe\
 					<key>UserInfo</key>
 					<dict>
 						<key>offset_x</key>
-						<string>-23,668884277344</string>
+						<string>-16</string>
 						<key>offset_y</key>
-						<string>-9,87890625</string>
+						<string>-3</string>
 						<key>type</key>
 						<string>complex gateway</string>
 					</dict>
@@ -5448,9 +5448,9 @@ aufgabe\
 					<key>UserInfo</key>
 					<dict>
 						<key>offset_x</key>
-						<string>-9,994903564453</string>
+						<string>-3</string>
 						<key>offset_y</key>
-						<string>-23,551879882812</string>
+						<string>-16</string>
 						<key>type</key>
 						<string>complex gateway</string>
 					</dict>
@@ -5487,10 +5487,6 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
-						<key>offset_x</key>
-						<string>-7,044891357422</string>
-						<key>offset_y</key>
-						<string>-7,044921875</string>
 						<key>type</key>
 						<string>complex gateway</string>
 					</dict>
@@ -5519,9 +5515,9 @@ aufgabe\
 					<key>UserInfo</key>
 					<dict>
 						<key>offset_x</key>
-						<string>-15,759887695312</string>
+						<string>-8,7</string>
 						<key>offset_y</key>
-						<string>-15,759887695312</string>
+						<string>-8,7</string>
 						<key>type</key>
 						<string>parallel event-based gateway</string>
 					</dict>
@@ -5548,9 +5544,9 @@ aufgabe\
 					<key>UserInfo</key>
 					<dict>
 						<key>offset_x</key>
-						<string>-10,587890625</string>
+						<string>-3,5</string>
 						<key>offset_y</key>
-						<string>-10,588928222656</string>
+						<string>-3,5</string>
 						<key>type</key>
 						<string>parallel event-based gateway</string>
 					</dict>
@@ -5587,10 +5583,6 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
-						<key>offset_x</key>
-						<string>-7,044891357422</string>
-						<key>offset_y</key>
-						<string>-7,044921875</string>
 						<key>type</key>
 						<string>parallel event-based gateway</string>
 					</dict>
@@ -5617,9 +5609,9 @@ aufgabe\
 					<key>UserInfo</key>
 					<dict>
 						<key>offset_x</key>
-						<string>-14,627899169922</string>
+						<string>-7</string>
 						<key>offset_y</key>
-						<string>-14,6279296875</string>
+						<string>-7</string>
 						<key>type</key>
 						<string>exclusive event-based gateway</string>
 					</dict>
@@ -5646,9 +5638,9 @@ aufgabe\
 					<key>UserInfo</key>
 					<dict>
 						<key>offset_x</key>
-						<string>-10,587890625</string>
+						<string>-3</string>
 						<key>offset_y</key>
-						<string>-10,588928222656</string>
+						<string>-3</string>
 						<key>type</key>
 						<string>exclusive event-based gateway</string>
 					</dict>
@@ -5685,10 +5677,6 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
-						<key>offset_x</key>
-						<string>-7,044891357422</string>
-						<key>offset_y</key>
-						<string>-7,044921875</string>
 						<key>type</key>
 						<string>exclusive event-based gateway</string>
 					</dict>
@@ -5720,9 +5708,9 @@ aufgabe\
 					<key>UserInfo</key>
 					<dict>
 						<key>offset_x</key>
-						<string>-10,703887939453</string>
+						<string>-3</string>
 						<key>offset_y</key>
-						<string>-10,588928222656</string>
+						<string>-3</string>
 						<key>type</key>
 						<string>inclusive gateway</string>
 					</dict>
@@ -5759,10 +5747,6 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
-						<key>offset_x</key>
-						<string>-7,044891357422</string>
-						<key>offset_y</key>
-						<string>-7,044921875</string>
 						<key>type</key>
 						<string>inclusive gateway</string>
 					</dict>
@@ -5789,9 +5773,9 @@ aufgabe\
 					<key>UserInfo</key>
 					<dict>
 						<key>offset_x</key>
-						<string>-14,627899169922</string>
+						<string>-7</string>
 						<key>offset_y</key>
-						<string>-14,6279296875</string>
+						<string>-7</string>
 						<key>type</key>
 						<string>event-based gateway</string>
 					</dict>
@@ -5825,9 +5809,9 @@ aufgabe\
 					<key>UserInfo</key>
 					<dict>
 						<key>offset_x</key>
-						<string>-10,587890625</string>
+						<string>-3</string>
 						<key>offset_y</key>
-						<string>-10,588928222656</string>
+						<string>-3</string>
 						<key>type</key>
 						<string>event-based gateway</string>
 					</dict>
@@ -5864,10 +5848,6 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
-						<key>offset_x</key>
-						<string>-7,044891357422</string>
-						<key>offset_y</key>
-						<string>-7,044921875</string>
 						<key>type</key>
 						<string>event-based gateway</string>
 					</dict>
@@ -6023,9 +6003,9 @@ aufgabe\
 					<key>UserInfo</key>
 					<dict>
 						<key>offset_x</key>
-						<string>-15,322906494141</string>
+						<string>-8</string>
 						<key>offset_y</key>
-						<string>-15,322875976562</string>
+						<string>-8</string>
 						<key>type</key>
 						<string>parallel gateway</string>
 					</dict>
@@ -6062,10 +6042,6 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
-						<key>offset_x</key>
-						<string>-7,044891357422</string>
-						<key>offset_y</key>
-						<string>-7,044921875</string>
 						<key>type</key>
 						<string>parallel gateway</string>
 					</dict>
@@ -6929,7 +6905,7 @@ aufgabe\
 						<key>offset_y</key>
 						<string>-4,251953125</string>
 						<key>type</key>
-						<string>multiple intermediate end</string>
+						<string>multiple end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6970,7 +6946,7 @@ aufgabe\
 						<key>offset_y</key>
 						<string>0,0</string>
 						<key>type</key>
-						<string>multiple intermediate end</string>
+						<string>multiple end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9223,6 +9199,10 @@ aufgabe\
 					<integer>37162</integer>
 					<key>Layer</key>
 					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{0, 0.5}</string>
+					</array>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -9259,6 +9239,12 @@ aufgabe\
 					<integer>37163</integer>
 					<key>Layer</key>
 					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{-0.49999999999999911, 3.5527136788005009e-15}</string>
+						<string>{0.50000000000000089, 7.1054273576010019e-15}</string>
+						<string>{8.8817841970012523e-16, -0.5}</string>
+					</array>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -9468,6 +9454,13 @@ aufgabe\
 					<integer>37153</integer>
 					<key>Layer</key>
 					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{-0.5, 3.5527136788005009e-15}</string>
+						<string>{0.5, 7.1054273576010019e-15}</string>
+						<string>{0, -0.5}</string>
+						<string>{0, 0.5}</string>
+					</array>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -9679,6 +9672,13 @@ aufgabe\
 					<integer>37137</integer>
 					<key>Layer</key>
 					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{-0.49999999999999978, 3.5527136788005009e-15}</string>
+						<string>{0.5, 7.1054273576010019e-15}</string>
+						<string>{0, -0.5}</string>
+						<string>{0, 0.5}</string>
+					</array>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -9729,12 +9729,14 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>Element 1</key>
+						<string></string>
 						<key>offset_x</key>
 						<string>-8,098899841309</string>
 						<key>offset_y</key>
 						<string>-16,60302734375</string>
 						<key>type</key>
-						<string>conditional  start non-interrupting</string>
+						<string>conditional start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9767,12 +9769,14 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>Element 1</key>
+						<string></string>
 						<key>offset_x</key>
 						<string>-8,099098205566</string>
 						<key>offset_y</key>
 						<string>-20,733032226562</string>
 						<key>type</key>
-						<string>conditional  start non-interrupting</string>
+						<string>conditional start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9810,7 +9814,7 @@ aufgabe\
 						<key>offset_y</key>
 						<string>-7,613037109375</string>
 						<key>type</key>
-						<string>conditional  start non-interrupting</string>
+						<string>conditional start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9848,7 +9852,7 @@ aufgabe\
 						<key>offset_y</key>
 						<string>-11,743041992188</string>
 						<key>type</key>
-						<string>conditional  start non-interrupting</string>
+						<string>conditional start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9869,7 +9873,7 @@ aufgabe\
 						<key>offset_y</key>
 						<string>-5,669006347656</string>
 						<key>type</key>
-						<string>conditional  start non-interrupting</string>
+						<string>conditional start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9881,6 +9885,13 @@ aufgabe\
 					<integer>37145</integer>
 					<key>Layer</key>
 					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{-0.49999999999999956, 3.5527136788005009e-15}</string>
+						<string>{0.50000000000000044, 7.1054273576010019e-15}</string>
+						<string>{0, -0.5}</string>
+						<string>{0, 0.5}</string>
+					</array>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -9905,7 +9916,7 @@ aufgabe\
 						<key>offset_y</key>
 						<string>0,0</string>
 						<key>type</key>
-						<string>conditional  start non-interrupting</string>
+						<string>conditional start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10249,6 +10260,8 @@ aufgabe\
 					<array>
 						<string>{0.5, 0}</string>
 						<string>{-0.5, 0}</string>
+						<string>{0, 0.49999999999999645}</string>
+						<string>{0, -0.50000000000000355}</string>
 					</array>
 					<key>Shape</key>
 					<string>Circle</string>
@@ -10324,8 +10337,8 @@ aufgabe\
 					<integer>1</integer>
 					<key>Magnets</key>
 					<array>
-						<string>{0.5, 0}</string>
-						<string>{-0.5, 0}</string>
+						<string>{0.50000000000000044, 0}</string>
+						<string>{-0.49999999999999956, 0}</string>
 						<string>{0, -0.5}</string>
 						<string>{0, 0.5}</string>
 					</array>
@@ -10402,7 +10415,7 @@ aufgabe\
 					<key>Magnets</key>
 					<array>
 						<string>{0.5, 0}</string>
-						<string>{-0.5, 0}</string>
+						<string>{-0.49999999999999978, 0}</string>
 						<string>{0, 0.5}</string>
 						<string>{0, -0.5}</string>
 					</array>
@@ -14737,7 +14750,7 @@ Teilprozess}</string>
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{153, 4}, {1222, 1173}}</string>
+		<string>{{37, 4}, {1436, 1173}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -14751,15 +14764,15 @@ Teilprozess}</string>
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{239.10257287279421, 509.61540330796623}, {298.07693401031986, 325.6410375854677}}</string>
+		<string>{{-117, 211.8055471391593}, {794.4444128760598, 715.97219377204328}}</string>
 		<key>Zoom</key>
-		<real>3.119999885559082</real>
+		<real>1.440000057220459</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>lib</string>
-				<real>3.119999885559082</real>
-				<real>2.7599999904632568</real>
+				<real>1.440000057220459</real>
+				<real>1.690000057220459</real>
 			</array>
 			<array>
 				<string>process</string>
