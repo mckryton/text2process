@@ -1,0 +1,7 @@
+1,phone,,message start
+2,phone,rings,task
+3,human,take phone\,say name,task
+4,human,talk,task
+5,human,hang up,undefined
+6,phone,disconnect,task
+7,phone,,end
