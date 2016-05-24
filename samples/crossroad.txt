@@ -1,10 +1,12 @@
 1,driver,,start
 2,driver,drive on road,task
 3,driver,arrive at crossroad,task
-4,driver,watch traffic light,task
-5,traffic light,,gateway
-6,traffic light,,timer intermediate non-interrupting
-7,traffic light,switch traffic light,task
-8,driver,,exclusive gateway
-9,driver,pass crossroad,task
-10,driver,,end
+4,driver,check traffic light,task
+5,traffic light,,exclusive gateway
+6,traffic light,,timer start non-interrupting
+7,driver,wait on traffic light switch,task
+12,traffic light,,timer intermediate non-interrupting
+8,traffic light,switch traffic light,task
+9,driver,,exclusive gateway,8-5
+10,driver,pass crossroad,task
+11,driver,,end
