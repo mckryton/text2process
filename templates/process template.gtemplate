@@ -26,7 +26,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-05-14 09:51:31 +0000</string>
+	<string>2016-05-31 18:06:38 +0000</string>
 	<key>Modifier</key>
 	<string>mac</string>
 	<key>NotesVisible</key>
@@ -1406,7 +1406,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -1458,7 +1458,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -1510,7 +1510,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -1569,7 +1569,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -1621,7 +1621,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -1673,7 +1673,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -1725,7 +1725,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -1784,7 +1784,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -1843,7 +1843,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -1895,7 +1895,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -1947,7 +1947,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -1999,7 +1999,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2051,7 +2051,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2103,7 +2103,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2155,7 +2155,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2207,7 +2207,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2259,7 +2259,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2311,7 +2311,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2363,7 +2363,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2415,7 +2415,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2467,7 +2467,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2519,7 +2519,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2571,7 +2571,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2623,7 +2623,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2675,7 +2675,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2727,7 +2727,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2784,7 +2784,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -2841,7 +2841,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -2893,7 +2893,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -2943,7 +2943,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -2993,7 +2993,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3043,7 +3043,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3093,7 +3093,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3143,7 +3143,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3193,7 +3193,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3243,7 +3243,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3293,7 +3293,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3343,7 +3343,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3393,7 +3393,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3443,7 +3443,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3493,7 +3493,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3550,7 +3550,7 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3586,7 +3586,7 @@
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3595,7 +3595,7 @@
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>lane_item_type</key>
 						<string>swimlane_head</string>
 					</dict>
 				</dict>
@@ -3620,7 +3620,7 @@
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>lane_item_type</key>
 						<string>swimlane_body</string>
 					</dict>
 				</dict>
@@ -3654,12 +3654,12 @@
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>choreography sub-process</string>
 						<key>offset_x</key>
 						<string>-49,585998535156</string>
 						<key>offset_y</key>
 						<string>-45,349975585938</string>
-						<key>type</key>
-						<string>choreography sub-process</string>
 					</dict>
 				</dict>
 				<dict>
@@ -3690,12 +3690,12 @@
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>choreography sub-process</string>
 						<key>offset_x</key>
 						<string>-45,35400390625</string>
 						<key>offset_y</key>
 						<string>-49,400024414062</string>
-						<key>type</key>
-						<string>choreography sub-process</string>
 					</dict>
 				</dict>
 				<dict>
@@ -3719,12 +3719,12 @@
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>choreography sub-process</string>
 						<key>offset_x</key>
 						<string>-42,518997192383</string>
 						<key>offset_y</key>
 						<string>-42,52001953125</string>
-						<key>type</key>
-						<string>choreography sub-process</string>
 					</dict>
 				</dict>
 				<dict>
@@ -3737,7 +3737,7 @@
 					<key>Layer</key>
 					<integer>1</integer>
 					<key>Notes</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
@@ -3768,7 +3768,7 @@
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3783,12 +3783,12 @@
 						<string></string>
 						<key>Id</key>
 						<string></string>
+						<key>item_type</key>
+						<string>choreography sub-process</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>-56,68994140625</string>
-						<key>type</key>
-						<string>choreography sub-process</string>
 					</dict>
 				</dict>
 				<dict>
@@ -3817,7 +3817,7 @@
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3826,12 +3826,12 @@
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>choreography sub-process</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>choreography sub-process</string>
 					</dict>
 				</dict>
 				<dict>
@@ -3881,7 +3881,7 @@
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3892,12 +3892,12 @@
 					<real>180</real>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>choreography sub-process</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>-70,859985351562</string>
-						<key>type</key>
-						<string>choreography sub-process</string>
 					</dict>
 				</dict>
 				<dict>
@@ -3938,7 +3938,7 @@
 						<key>Pad</key>
 						<integer>1</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3953,12 +3953,12 @@ teilprozess\
 					<integer>0</integer>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>choreography sub-process</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>-14,170043945312</string>
-						<key>type</key>
-						<string>choreography sub-process</string>
 					</dict>
 				</dict>
 				<dict>
@@ -3987,7 +3987,7 @@ teilprozess\
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -3996,12 +3996,12 @@ teilprozess\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>choreography task</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>choreography task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4051,7 +4051,7 @@ teilprozess\
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -4062,12 +4062,12 @@ teilprozess\
 					<real>180</real>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>choreography task</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>-56,68994140625</string>
-						<key>type</key>
-						<string>choreography task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4108,7 +4108,7 @@ teilprozess\
 						<key>Pad</key>
 						<integer>1</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -4123,12 +4123,12 @@ aufgabe\
 					<integer>0</integer>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>choreography task</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>-14,170043945312</string>
-						<key>type</key>
-						<string>choreography task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4161,12 +4161,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>multiple participants marker</string>
 						<key>offset_x</key>
 						<string>-11,574600219727</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>multiple participants marker</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4199,12 +4199,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>multiple participants marker</string>
 						<key>offset_x</key>
 						<string>-5,599800109863</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>multiple participants marker</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4237,12 +4237,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>multiple participants marker</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>multiple participants marker</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4271,12 +4271,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>script task</string>
 						<key>offset_x</key>
 						<string>-9,949005126953</string>
 						<key>offset_y</key>
 						<string>-19,776000976562</string>
-						<key>type</key>
-						<string>script task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4305,12 +4305,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>script task</string>
 						<key>offset_x</key>
 						<string>-11,227996826172</string>
 						<key>offset_y</key>
 						<string>-14,463012695312</string>
-						<key>type</key>
-						<string>script task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4339,12 +4339,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>script task</string>
 						<key>offset_x</key>
 						<string>-7,389999389648</string>
 						<key>offset_y</key>
 						<string>-9,503021240234</string>
-						<key>type</key>
-						<string>script task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4373,12 +4373,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>script task</string>
 						<key>offset_x</key>
 						<string>-5,044998168945</string>
 						<key>offset_y</key>
 						<string>-3,408020019531</string>
-						<key>type</key>
-						<string>script task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4402,12 +4402,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>script task</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>script task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4431,12 +4431,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>service task</string>
 						<key>offset_x</key>
 						<string>-4,796997070312</string>
 						<key>offset_y</key>
 						<string>-3,960998535156</string>
-						<key>type</key>
-						<string>service task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4472,12 +4472,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>service task</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>service task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4508,12 +4508,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>compensation marker</string>
 						<key>offset_x</key>
 						<string>-9,10230255127</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>compensation marker</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4544,12 +4544,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>compensation marker</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>compensation marker</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4580,12 +4580,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>business rule task</string>
 						<key>offset_x</key>
 						<string>-5,147003173828</string>
 						<key>offset_y</key>
 						<string>-2,205993652344</string>
-						<key>type</key>
-						<string>business rule task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4617,12 +4617,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>business rule task</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>-2,207000732422</string>
-						<key>type</key>
-						<string>business rule task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4654,12 +4654,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>business rule task</string>
 						<key>offset_x</key>
 						<string>-0,245010375977</string>
 						<key>offset_y</key>
 						<string>-6,863006591797</string>
-						<key>type</key>
-						<string>business rule task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4683,12 +4683,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>business rule task</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>business rule task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4728,12 +4728,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>user task</string>
 						<key>offset_x</key>
 						<string>-8,378997802734</string>
 						<key>offset_y</key>
 						<string>-10,748016357422</string>
-						<key>type</key>
-						<string>user task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4769,12 +4769,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>user task</string>
 						<key>offset_x</key>
 						<string>-7,788009643555</string>
 						<key>offset_y</key>
 						<string>-0,408020019531</string>
-						<key>type</key>
-						<string>user task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4798,12 +4798,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>user task</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>user task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4836,12 +4836,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>sequential mi marker</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>-11,574981689453</string>
-						<key>type</key>
-						<string>sequential mi marker</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4874,12 +4874,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>sequential mi marker</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>-5,599975585938</string>
-						<key>type</key>
-						<string>sequential mi marker</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4912,12 +4912,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>sequential mi marker</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>sequential mi marker</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4950,12 +4950,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>parallel mi marker</string>
 						<key>offset_x</key>
 						<string>-11,574596405029</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>parallel mi marker</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4988,12 +4988,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>parallel mi marker</string>
 						<key>offset_x</key>
 						<string>-5,599800109863</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>parallel mi marker</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5026,12 +5026,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>parallel mi marker</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>parallel mi marker</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5060,12 +5060,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>receive task</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>receive task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5089,12 +5089,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>receive task</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>receive task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5127,12 +5127,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>sub-process marker</string>
 						<key>offset_x</key>
 						<string>-7,066097259521</string>
 						<key>offset_y</key>
 						<string>-2,835006713867</string>
-						<key>type</key>
-						<string>sub-process marker</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5163,12 +5163,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>sub-process marker</string>
 						<key>offset_x</key>
 						<string>-2,834499359131</string>
 						<key>offset_y</key>
 						<string>-6,889007568359</string>
-						<key>type</key>
-						<string>sub-process marker</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5192,12 +5192,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>sub-process marker</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>sub-process marker</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5250,12 +5250,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>send task</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>send task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5291,12 +5291,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>send task</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>send task</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5331,12 +5331,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>complex gateway</string>
 						<key>offset_x</key>
 						<string>-7</string>
 						<key>offset_y</key>
 						<string>-7</string>
-						<key>type</key>
-						<string>complex gateway</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5371,12 +5371,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>complex gateway</string>
 						<key>offset_x</key>
 						<string>-7</string>
 						<key>offset_y</key>
 						<string>-7</string>
-						<key>type</key>
-						<string>complex gateway</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5411,12 +5411,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>complex gateway</string>
 						<key>offset_x</key>
 						<string>-16</string>
 						<key>offset_y</key>
 						<string>-3</string>
-						<key>type</key>
-						<string>complex gateway</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5449,12 +5449,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>complex gateway</string>
 						<key>offset_x</key>
 						<string>-3</string>
 						<key>offset_y</key>
 						<string>-16</string>
-						<key>type</key>
-						<string>complex gateway</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5489,7 +5489,7 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
-						<key>type</key>
+						<key>item_type</key>
 						<string>complex gateway</string>
 					</dict>
 				</dict>
@@ -5516,12 +5516,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>parallel event-based gateway</string>
 						<key>offset_x</key>
 						<string>-8,7</string>
 						<key>offset_y</key>
 						<string>-8,7</string>
-						<key>type</key>
-						<string>parallel event-based gateway</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5545,12 +5545,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>parallel event-based gateway</string>
 						<key>offset_x</key>
 						<string>-3,5</string>
 						<key>offset_y</key>
 						<string>-3,5</string>
-						<key>type</key>
-						<string>parallel event-based gateway</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5585,7 +5585,7 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
-						<key>type</key>
+						<key>item_type</key>
 						<string>parallel event-based gateway</string>
 					</dict>
 				</dict>
@@ -5610,12 +5610,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>exclusive event-based gateway</string>
 						<key>offset_x</key>
 						<string>-7</string>
 						<key>offset_y</key>
 						<string>-7</string>
-						<key>type</key>
-						<string>exclusive event-based gateway</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5639,12 +5639,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>exclusive event-based gateway</string>
 						<key>offset_x</key>
 						<string>-3</string>
 						<key>offset_y</key>
 						<string>-3</string>
-						<key>type</key>
-						<string>exclusive event-based gateway</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5679,7 +5679,7 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
-						<key>type</key>
+						<key>item_type</key>
 						<string>exclusive event-based gateway</string>
 					</dict>
 				</dict>
@@ -5709,12 +5709,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>inclusive gateway</string>
 						<key>offset_x</key>
 						<string>-3</string>
 						<key>offset_y</key>
 						<string>-3</string>
-						<key>type</key>
-						<string>inclusive gateway</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5749,7 +5749,7 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
-						<key>type</key>
+						<key>item_type</key>
 						<string>inclusive gateway</string>
 					</dict>
 				</dict>
@@ -5774,12 +5774,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>event-based gateway</string>
 						<key>offset_x</key>
 						<string>-7</string>
 						<key>offset_y</key>
 						<string>-7</string>
-						<key>type</key>
-						<string>event-based gateway</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5810,12 +5810,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>event-based gateway</string>
 						<key>offset_x</key>
 						<string>-3</string>
 						<key>offset_y</key>
 						<string>-3</string>
-						<key>type</key>
-						<string>event-based gateway</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5850,7 +5850,7 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
-						<key>type</key>
+						<key>item_type</key>
 						<string>event-based gateway</string>
 					</dict>
 				</dict>
@@ -5884,12 +5884,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>exclusive gateway</string>
 						<key>offset_x</key>
 						<string>-11,508911132812</string>
 						<key>offset_y</key>
 						<string>-5,683898925781</string>
-						<key>type</key>
-						<string>exclusive gateway</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5920,12 +5920,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>exclusive gateway</string>
 						<key>offset_x</key>
 						<string>-12,949890136719</string>
 						<key>offset_y</key>
 						<string>-5,125915527344</string>
-						<key>type</key>
-						<string>exclusive gateway</string>
 					</dict>
 				</dict>
 				<dict>
@@ -5960,7 +5960,7 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
-						<key>type</key>
+						<key>item_type</key>
 						<string>exclusive gateway</string>
 					</dict>
 				</dict>
@@ -6004,12 +6004,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>parallel gateway</string>
 						<key>offset_x</key>
 						<string>-8</string>
 						<key>offset_y</key>
 						<string>-8</string>
-						<key>type</key>
-						<string>parallel gateway</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6044,7 +6044,7 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
-						<key>type</key>
+						<key>item_type</key>
 						<string>parallel gateway</string>
 					</dict>
 				</dict>
@@ -6090,12 +6090,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message out</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>message out</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6137,12 +6137,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message out</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>message out</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6175,12 +6175,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message in</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>message in</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6210,12 +6210,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message in</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>message in</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6271,12 +6271,12 @@ aufgabe\
 					<string>{{0.125, 0.25}, {0.75, 0.5}}</string>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>data output</string>
 						<key>offset_x</key>
 						<string>-3,076995849609</string>
 						<key>offset_y</key>
 						<string>-4,473999023438</string>
-						<key>type</key>
-						<string>data output</string>
 					</dict>
 					<key>isConnectedShape</key>
 					<true/>
@@ -6321,7 +6321,7 @@ aufgabe\
 						<key>Pad</key>
 						<integer>1</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
@@ -6332,12 +6332,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>data output</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>data output</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6384,12 +6384,12 @@ aufgabe\
 					<string>{{0.125, 0.25}, {0.75, 0.5}}</string>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>data input</string>
 						<key>offset_x</key>
 						<string>-3,515014648438</string>
 						<key>offset_y</key>
 						<string>-5,335998535156</string>
-						<key>type</key>
-						<string>data input</string>
 					</dict>
 					<key>isConnectedShape</key>
 					<true/>
@@ -6432,7 +6432,7 @@ aufgabe\
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
@@ -6443,12 +6443,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>data input</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>data input</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6489,12 +6489,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>terminate end</string>
 						<key>offset_x</key>
 						<string>-5,586990356445</string>
 						<key>offset_y</key>
 						<string>-5,590026855469</string>
-						<key>type</key>
-						<string>terminate end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6530,12 +6530,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>terminate end</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>terminate end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6561,12 +6561,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>parallel multiple intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-4,820999145508</string>
 						<key>offset_y</key>
 						<string>-5,442993164062</string>
-						<key>type</key>
-						<string>parallel multiple intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6597,12 +6597,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>parallel multiple intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-1,4169921875</string>
 						<key>offset_y</key>
 						<string>-1,4169921875</string>
-						<key>type</key>
-						<string>parallel multiple intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6640,12 +6640,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>parallel multiple intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>parallel multiple intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6671,12 +6671,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>parallel multiple intermediate</string>
 						<key>offset_x</key>
 						<string>-5,532997131348</string>
 						<key>offset_y</key>
 						<string>-5,442993164062</string>
-						<key>type</key>
-						<string>parallel multiple intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6716,12 +6716,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>parallel multiple intermediate</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>parallel multiple intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6747,12 +6747,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>parallel multiple start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-5,443000793457</string>
 						<key>offset_y</key>
 						<string>-5,442993164062</string>
-						<key>type</key>
-						<string>parallel multiple start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6790,12 +6790,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>parallel multiple start non-interrupting</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>parallel multiple start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6821,12 +6821,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>parallel multiple start</string>
 						<key>offset_x</key>
 						<string>-5,444202423096</string>
 						<key>offset_y</key>
 						<string>-5,442993164062</string>
-						<key>type</key>
-						<string>parallel multiple start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6857,12 +6857,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>parallel multiple start</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>parallel multiple start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6898,12 +6898,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>multiple end</string>
 						<key>offset_x</key>
 						<string>-4,251998901367</string>
 						<key>offset_y</key>
 						<string>-4,251953125</string>
-						<key>type</key>
-						<string>multiple end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6939,12 +6939,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>multiple end</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>multiple end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6980,12 +6980,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>multiple intermediate throwing</string>
 						<key>offset_x</key>
 						<string>-3,828994750977</string>
 						<key>offset_y</key>
 						<string>-4,039978027344</string>
-						<key>type</key>
-						<string>multiple intermediate throwing</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7025,12 +7025,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>multiple intermediate throwing</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>multiple intermediate throwing</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7054,12 +7054,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>multiple intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-4,251998901367</string>
 						<key>offset_y</key>
 						<string>-4,252990722656</string>
-						<key>type</key>
-						<string>multiple intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7090,12 +7090,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>multiple intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-1,4169921875</string>
 						<key>offset_y</key>
 						<string>-1,418029785156</string>
-						<key>type</key>
-						<string>multiple intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7133,12 +7133,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>multiple intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>multiple intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7162,12 +7162,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>multiple intermediate</string>
 						<key>offset_x</key>
 						<string>-4,251998901367</string>
 						<key>offset_y</key>
 						<string>-4,251953125</string>
-						<key>type</key>
-						<string>multiple intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7207,12 +7207,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>multiple intermediate</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>multiple intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7236,12 +7236,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>multiple start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-4,251998901367</string>
 						<key>offset_y</key>
 						<string>-4,251953125</string>
-						<key>type</key>
-						<string>multiple start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7279,12 +7279,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>multiple start non-interrupting</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>multiple start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7308,12 +7308,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>multiple start</string>
 						<key>offset_x</key>
 						<string>-4,251899719238</string>
 						<key>offset_y</key>
 						<string>-4,251953125</string>
-						<key>type</key>
-						<string>multiple start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7344,12 +7344,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>multiple start</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>multiple start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7392,12 +7392,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>signal end</string>
 						<key>offset_x</key>
 						<string>-6,377990722656</string>
 						<key>offset_y</key>
 						<string>-4,429016113281</string>
-						<key>type</key>
-						<string>signal end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7433,12 +7433,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>signal end</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>signal end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7481,12 +7481,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>signal intermediate throwing</string>
 						<key>offset_x</key>
 						<string>-6,377990722656</string>
 						<key>offset_y</key>
 						<string>-4,429016113281</string>
-						<key>type</key>
-						<string>signal intermediate throwing</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7526,12 +7526,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>signal intermediate throwing</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>signal intermediate throwing</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7562,12 +7562,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>signal intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-6,378005981445</string>
 						<key>offset_y</key>
 						<string>-4,429016113281</string>
-						<key>type</key>
-						<string>signal intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7604,12 +7604,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>signal intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-1,4169921875</string>
 						<key>offset_y</key>
 						<string>-1,4169921875</string>
-						<key>type</key>
-						<string>signal intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7644,12 +7644,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>signal intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>signal intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7680,12 +7680,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>signal intermediate</string>
 						<key>offset_x</key>
 						<string>-6,259994506836</string>
 						<key>offset_y</key>
 						<string>-4,429016113281</string>
-						<key>type</key>
-						<string>signal intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7725,12 +7725,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>signal intermediate</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>signal intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7761,12 +7761,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>signal start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-6,377899169922</string>
 						<key>offset_y</key>
 						<string>-4,429016113281</string>
-						<key>type</key>
-						<string>signal start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7804,12 +7804,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>signal start non-interrupting</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>signal start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7840,12 +7840,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>signal start</string>
 						<key>offset_x</key>
 						<string>-6,377902984619</string>
 						<key>offset_y</key>
 						<string>-4,429016113281</string>
-						<key>type</key>
-						<string>signal start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7876,12 +7876,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>signal start</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>signal start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7924,12 +7924,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>compensation end</string>
 						<key>offset_x</key>
 						<string>-13,723999023438</string>
 						<key>offset_y</key>
 						<string>-9,921997070312</string>
-						<key>type</key>
-						<string>compensation end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -7972,12 +7972,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>compensation end</string>
 						<key>offset_x</key>
 						<string>-4,620986938477</string>
 						<key>offset_y</key>
 						<string>-9,921997070312</string>
-						<key>type</key>
-						<string>compensation end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8013,12 +8013,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>compensation end</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>compensation end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8061,12 +8061,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>compensation intermediate throwing</string>
 						<key>offset_x</key>
 						<string>-13,474990844727</string>
 						<key>offset_y</key>
 						<string>-9,920959472656</string>
-						<key>type</key>
-						<string>compensation intermediate throwing</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8109,12 +8109,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>compensation intermediate throwing</string>
 						<key>offset_x</key>
 						<string>-4,371994018555</string>
 						<key>offset_y</key>
 						<string>-9,920959472656</string>
-						<key>type</key>
-						<string>compensation intermediate throwing</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8154,12 +8154,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>compensation intermediate throwing</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>compensation intermediate throwing</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8190,12 +8190,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>compensation intermediate</string>
 						<key>offset_x</key>
 						<string>-13,723991394043</string>
 						<key>offset_y</key>
 						<string>-9,921997070312</string>
-						<key>type</key>
-						<string>compensation intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8226,12 +8226,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>compensation intermediate</string>
 						<key>offset_x</key>
 						<string>-4,622001647949</string>
 						<key>offset_y</key>
 						<string>-9,921997070312</string>
-						<key>type</key>
-						<string>compensation intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8271,12 +8271,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>compensation intermediate</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>compensation intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8307,12 +8307,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>compensation start</string>
 						<key>offset_x</key>
 						<string>-13,486400604248</string>
 						<key>offset_y</key>
 						<string>-9,921997070312</string>
-						<key>type</key>
-						<string>compensation start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8343,12 +8343,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>compensation start</string>
 						<key>offset_x</key>
 						<string>-4,383399963379</string>
 						<key>offset_y</key>
 						<string>-9,921997070312</string>
-						<key>type</key>
-						<string>compensation start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8379,12 +8379,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>compensation start</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>compensation start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8420,12 +8420,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>cancel end</string>
 						<key>offset_x</key>
 						<string>-5,442993164062</string>
 						<key>offset_y</key>
 						<string>-5,442993164062</string>
-						<key>type</key>
-						<string>cancel end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8461,12 +8461,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>cancel end</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>cancel end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8490,12 +8490,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>cancel intermediate</string>
 						<key>offset_x</key>
 						<string>-5,443000793457</string>
 						<key>offset_y</key>
 						<string>-5,442993164062</string>
-						<key>type</key>
-						<string>cancel intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8535,12 +8535,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>cancel intermediate</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>cancel intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8580,12 +8580,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>error end</string>
 						<key>offset_x</key>
 						<string>-5,143997192383</string>
 						<key>offset_y</key>
 						<string>-7,086975097656</string>
-						<key>type</key>
-						<string>error end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8621,12 +8621,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>error end</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>error end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8666,12 +8666,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>error intermediate</string>
 						<key>offset_x</key>
 						<string>-5,143997192383</string>
 						<key>offset_y</key>
 						<string>-7,086975097656</string>
-						<key>type</key>
-						<string>error intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8711,12 +8711,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>error intermediate</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>error intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8756,12 +8756,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>error start</string>
 						<key>offset_x</key>
 						<string>-5,144302368164</string>
 						<key>offset_y</key>
 						<string>-7,086975097656</string>
-						<key>type</key>
-						<string>error start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8792,12 +8792,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>error start</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>error start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8855,12 +8855,12 @@ aufgabe\
 					<string>{{0.125, 0.25}, {0.75, 0.5}}</string>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>link intermediate throwing</string>
 						<key>offset_x</key>
 						<string>-5,927001953125</string>
 						<key>offset_y</key>
 						<string>-5,669982910156</string>
-						<key>type</key>
-						<string>link intermediate throwing</string>
 					</dict>
 					<key>isConnectedShape</key>
 					<true/>
@@ -8902,12 +8902,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>link intermediate throwing</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>link intermediate throwing</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8956,12 +8956,12 @@ aufgabe\
 					<string>{{0.125, 0.25}, {0.75, 0.5}}</string>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>link intermediate</string>
 						<key>offset_x</key>
 						<string>-5,92699432373</string>
 						<key>offset_y</key>
 						<string>-5,669006347656</string>
-						<key>type</key>
-						<string>link intermediate</string>
 					</dict>
 					<key>isConnectedShape</key>
 					<true/>
@@ -9003,12 +9003,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>link intermediate</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>link intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9041,12 +9041,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-8,098999023438</string>
 						<key>offset_y</key>
 						<string>-16,60302734375</string>
-						<key>type</key>
-						<string>conditional intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9079,12 +9079,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-8,100006103516</string>
 						<key>offset_y</key>
 						<string>-20,733032226562</string>
-						<key>type</key>
-						<string>conditional intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9117,12 +9117,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-8,100006103516</string>
 						<key>offset_y</key>
 						<string>-7,613037109375</string>
-						<key>type</key>
-						<string>conditional intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9155,12 +9155,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-8,098999023438</string>
 						<key>offset_y</key>
 						<string>-11,743041992188</string>
-						<key>type</key>
-						<string>conditional intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9176,12 +9176,12 @@ aufgabe\
 					<string>Rectangle</string>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-8,098999023438</string>
 						<key>offset_y</key>
 						<string>-5,669006347656</string>
-						<key>type</key>
-						<string>conditional intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9216,12 +9216,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>conditional intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-1,4169921875</string>
 						<key>offset_y</key>
 						<string>-1,4169921875</string>
-						<key>type</key>
-						<string>conditional intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9258,12 +9258,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>conditional intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>conditional intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9296,12 +9296,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional intermediate</string>
 						<key>offset_x</key>
 						<string>-8,098991394043</string>
 						<key>offset_y</key>
 						<string>-16,60302734375</string>
-						<key>type</key>
-						<string>conditional intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9334,12 +9334,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional intermediate</string>
 						<key>offset_x</key>
 						<string>-8,098991394043</string>
 						<key>offset_y</key>
 						<string>-20,733032226562</string>
-						<key>type</key>
-						<string>conditional intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9372,12 +9372,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional intermediate</string>
 						<key>offset_x</key>
 						<string>-8,098991394043</string>
 						<key>offset_y</key>
 						<string>-7,613037109375</string>
-						<key>type</key>
-						<string>conditional intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9410,12 +9410,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional intermediate</string>
 						<key>offset_x</key>
 						<string>-8,098991394043</string>
 						<key>offset_y</key>
 						<string>-11,743041992188</string>
-						<key>type</key>
-						<string>conditional intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9431,12 +9431,12 @@ aufgabe\
 					<string>Rectangle</string>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional intermediate</string>
 						<key>offset_x</key>
 						<string>-8,098991394043</string>
 						<key>offset_y</key>
 						<string>-5,669006347656</string>
-						<key>type</key>
-						<string>conditional intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9476,12 +9476,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>conditional intermediate</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>conditional intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9514,12 +9514,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional start</string>
 						<key>offset_x</key>
 						<string>-8,099002838135</string>
 						<key>offset_y</key>
 						<string>-16,60302734375</string>
-						<key>type</key>
-						<string>conditional start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9552,12 +9552,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional start</string>
 						<key>offset_x</key>
 						<string>-8,099201202393</string>
 						<key>offset_y</key>
 						<string>-20,733032226562</string>
-						<key>type</key>
-						<string>conditional start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9590,12 +9590,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional start</string>
 						<key>offset_x</key>
 						<string>-8,099201202393</string>
 						<key>offset_y</key>
 						<string>-7,613037109375</string>
-						<key>type</key>
-						<string>conditional start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9628,12 +9628,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional start</string>
 						<key>offset_x</key>
 						<string>-8,099002838135</string>
 						<key>offset_y</key>
 						<string>-11,743041992188</string>
-						<key>type</key>
-						<string>conditional start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9649,12 +9649,12 @@ aufgabe\
 					<string>Rectangle</string>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional start</string>
 						<key>offset_x</key>
 						<string>-8,098899841309</string>
 						<key>offset_y</key>
 						<string>-5,669006347656</string>
-						<key>type</key>
-						<string>conditional start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9685,12 +9685,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional start</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>conditional start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9725,12 +9725,12 @@ aufgabe\
 					<dict>
 						<key>Element 1</key>
 						<string></string>
+						<key>item_type</key>
+						<string>conditional start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-8,098899841309</string>
 						<key>offset_y</key>
 						<string>-16,60302734375</string>
-						<key>type</key>
-						<string>conditional start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9765,12 +9765,12 @@ aufgabe\
 					<dict>
 						<key>Element 1</key>
 						<string></string>
+						<key>item_type</key>
+						<string>conditional start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-8,099098205566</string>
 						<key>offset_y</key>
 						<string>-20,733032226562</string>
-						<key>type</key>
-						<string>conditional start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9803,12 +9803,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-8,099098205566</string>
 						<key>offset_y</key>
 						<string>-7,613037109375</string>
-						<key>type</key>
-						<string>conditional start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9841,12 +9841,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-8,098899841309</string>
 						<key>offset_y</key>
 						<string>-11,743041992188</string>
-						<key>type</key>
-						<string>conditional start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9862,12 +9862,12 @@ aufgabe\
 					<string>Rectangle</string>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>conditional start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-8,098899841309</string>
 						<key>offset_y</key>
 						<string>-5,669006347656</string>
-						<key>type</key>
-						<string>conditional start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9905,12 +9905,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>conditional start non-interrupting</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>conditional start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9951,12 +9951,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>escalation end</string>
 						<key>offset_x</key>
 						<string>-5,668991088867</string>
 						<key>offset_y</key>
 						<string>-3,995971679688</string>
-						<key>type</key>
-						<string>escalation end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -9992,12 +9992,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>escalation end</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>escalation end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10038,12 +10038,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>escalation intermediate throwing</string>
 						<key>offset_x</key>
 						<string>-5,668991088867</string>
 						<key>offset_y</key>
 						<string>-3,995971679688</string>
-						<key>type</key>
-						<string>escalation intermediate throwing</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10083,12 +10083,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>escalation intermediate throwing</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>escalation intermediate throwing</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10117,12 +10117,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>escalation intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-5,668991088867</string>
 						<key>offset_y</key>
 						<string>-3,995971679688</string>
-						<key>type</key>
-						<string>escalation intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10157,12 +10157,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>escalation intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-1,4169921875</string>
 						<key>offset_y</key>
 						<string>-1,4169921875</string>
-						<key>type</key>
-						<string>escalation intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10199,12 +10199,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>escalation intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>escalation intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10233,12 +10233,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>escalation intermediate</string>
 						<key>offset_x</key>
 						<string>-5,668998718262</string>
 						<key>offset_y</key>
 						<string>-3,995971679688</string>
-						<key>type</key>
-						<string>escalation intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10278,12 +10278,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>escalation intermediate</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>escalation intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10312,12 +10312,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>escalation start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-5,669296264648</string>
 						<key>offset_y</key>
 						<string>-3,994995117188</string>
-						<key>type</key>
-						<string>escalation start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10355,12 +10355,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>escalation start non-interrupting</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>escalation start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10389,12 +10389,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>escalation start</string>
 						<key>offset_x</key>
 						<string>-5,669200897217</string>
 						<key>offset_y</key>
 						<string>-3,994995117188</string>
-						<key>type</key>
-						<string>escalation start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10425,12 +10425,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>escalation start</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>escalation start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10463,12 +10463,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-14,029998779297</string>
 						<key>offset_y</key>
 						<string>-14,523010253906</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10502,12 +10502,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-14,02099609375</string>
 						<key>offset_y</key>
 						<string>-8,278991699219</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10538,12 +10538,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-18,009002685547</string>
 						<key>offset_y</key>
 						<string>-20,721984863281</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10574,12 +10574,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-9,162002563477</string>
 						<key>offset_y</key>
 						<string>-5,926025390625</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10610,12 +10610,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-5,727005004883</string>
 						<key>offset_y</key>
 						<string>-9,018005371094</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10646,12 +10646,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-21,065994262695</string>
 						<key>offset_y</key>
 						<string>-17,679016113281</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10682,12 +10682,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-20,612991333008</string>
 						<key>offset_y</key>
 						<string>-8,885986328125</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10718,12 +10718,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-17,919998168945</string>
 						<key>offset_y</key>
 						<string>-5,989013671875</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10754,12 +10754,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-9,072998046875</string>
 						<key>offset_y</key>
 						<string>-20,783996582031</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10790,12 +10790,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-5,647994995117</string>
 						<key>offset_y</key>
 						<string>-17,924011230469</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10828,12 +10828,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-4,908004760742</string>
 						<key>offset_y</key>
 						<string>-13,736022949219</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10866,12 +10866,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-21,641998291016</string>
 						<key>offset_y</key>
 						<string>-13,736022949219</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10902,12 +10902,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-14,225997924805</string>
 						<key>offset_y</key>
 						<string>-21,359985351562</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10938,12 +10938,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-14,203994750977</string>
 						<key>offset_y</key>
 						<string>-4,799011230469</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -10967,12 +10967,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-4,251998901367</string>
 						<key>offset_y</key>
 						<string>-4,252014160156</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11008,12 +11008,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-1,4169921875</string>
 						<key>offset_y</key>
 						<string>-1,4169921875</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11049,12 +11049,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>timer intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>timer intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11087,12 +11087,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>-14,071998596191</string>
 						<key>offset_y</key>
 						<string>-14,56298828125</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11126,12 +11126,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>-14,062995910644</string>
 						<key>offset_y</key>
 						<string>-8,320007324219</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11162,12 +11162,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>-18,051002502441</string>
 						<key>offset_y</key>
 						<string>-20,763000488281</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11198,12 +11198,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>-9,204002380371</string>
 						<key>offset_y</key>
 						<string>-5,968017578125</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11234,12 +11234,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>-5,768997192383</string>
 						<key>offset_y</key>
 						<string>-9,059020996094</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11270,12 +11270,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>-21,10799407959</string>
 						<key>offset_y</key>
 						<string>-17,718994140625</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11306,12 +11306,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>-20,65599822998</string>
 						<key>offset_y</key>
 						<string>-8,927001953125</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11342,12 +11342,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>-17,96199798584</string>
 						<key>offset_y</key>
 						<string>-6,028991699219</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11378,12 +11378,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>-9,11499786377</string>
 						<key>offset_y</key>
 						<string>-20,825012207031</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11414,12 +11414,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>-5,689994812012</string>
 						<key>offset_y</key>
 						<string>-17,965026855469</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11452,12 +11452,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>-4,949996948242</string>
 						<key>offset_y</key>
 						<string>-13,778015136719</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11490,12 +11490,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>-21,68399810791</string>
 						<key>offset_y</key>
 						<string>-13,778015136719</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11526,12 +11526,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>-14,267997741699</string>
 						<key>offset_y</key>
 						<string>-21,401000976562</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11562,12 +11562,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>-14,247001647949</string>
 						<key>offset_y</key>
 						<string>-4,841003417969</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11591,12 +11591,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>-4,293998718262</string>
 						<key>offset_y</key>
 						<string>-4,294006347656</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11636,12 +11636,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>timer intermediate</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>timer intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11674,12 +11674,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-14,010299682617</string>
 						<key>offset_y</key>
 						<string>-14,572021484375</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11713,12 +11713,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-13,999801635742</string>
 						<key>offset_y</key>
 						<string>-7,43701171875</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11749,12 +11749,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-18,557197570801</string>
 						<key>offset_y</key>
 						<string>-21,658020019531</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11785,12 +11785,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-8,446403503418</string>
 						<key>offset_y</key>
 						<string>-4,747985839844</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11821,12 +11821,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-4,520599365234</string>
 						<key>offset_y</key>
 						<string>-8,283020019531</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11857,12 +11857,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-22,050903320312</string>
 						<key>offset_y</key>
 						<string>-18,179016113281</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11893,12 +11893,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-21,534103393555</string>
 						<key>offset_y</key>
 						<string>-8,132019042969</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11929,12 +11929,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-18,455696105957</string>
 						<key>offset_y</key>
 						<string>-4,820007324219</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11965,12 +11965,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-8,344802856445</string>
 						<key>offset_y</key>
 						<string>-21,72900390625</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12001,12 +12001,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-4,430603027344</string>
 						<key>offset_y</key>
 						<string>-18,460021972656</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12039,12 +12039,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-3,584503173828</string>
 						<key>offset_y</key>
 						<string>-13,674011230469</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12077,12 +12077,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-22,709800720215</string>
 						<key>offset_y</key>
 						<string>-13,674011230469</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12113,12 +12113,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-14,233596801758</string>
 						<key>offset_y</key>
 						<string>-22,387023925781</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12149,12 +12149,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-14,209503173828</string>
 						<key>offset_y</key>
 						<string>-3,460021972656</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12178,12 +12178,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-2,834503173828</string>
 						<key>offset_y</key>
 						<string>-2,835021972656</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12221,12 +12221,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>timer start non-interrupting</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>timer start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12259,12 +12259,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>-14,010402679443</string>
 						<key>offset_y</key>
 						<string>-14,572021484375</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12298,12 +12298,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>-13,999900817871</string>
 						<key>offset_y</key>
 						<string>-7,43701171875</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12334,12 +12334,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>-18,557201385498</string>
 						<key>offset_y</key>
 						<string>-21,658020019531</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12370,12 +12370,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>-8,446399688721</string>
 						<key>offset_y</key>
 						<string>-4,747985839844</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12406,12 +12406,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>-4,520702362061</string>
 						<key>offset_y</key>
 						<string>-8,283020019531</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12442,12 +12442,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>-22,051002502441</string>
 						<key>offset_y</key>
 						<string>-18,179016113281</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12478,12 +12478,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>-21,534099578857</string>
 						<key>offset_y</key>
 						<string>-8,132019042969</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12514,12 +12514,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>-18,455699920654</string>
 						<key>offset_y</key>
 						<string>-4,820007324219</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12550,12 +12550,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>-8,344802856445</string>
 						<key>offset_y</key>
 						<string>-21,72900390625</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12586,12 +12586,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>-4,430702209473</string>
 						<key>offset_y</key>
 						<string>-18,460021972656</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12624,12 +12624,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>-3,584602355957</string>
 						<key>offset_y</key>
 						<string>-13,674011230469</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12662,12 +12662,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>-22,709602355957</string>
 						<key>offset_y</key>
 						<string>-13,674011230469</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12698,12 +12698,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>-14,233600616455</string>
 						<key>offset_y</key>
 						<string>-22,387023925781</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12734,12 +12734,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>-14,209602355957</string>
 						<key>offset_y</key>
 						<string>-3,460021972656</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12763,12 +12763,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>-2,834602355957</string>
 						<key>offset_y</key>
 						<string>-2,835021972656</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12799,12 +12799,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>timer start</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>timer start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12857,12 +12857,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message end</string>
 						<key>offset_x</key>
 						<string>-5,668991088867</string>
 						<key>offset_y</key>
 						<string>-8,504028320312</string>
-						<key>type</key>
-						<string>message end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12898,12 +12898,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message end</string>
 						<key>offset_x</key>
 						<string>-5,668991088867</string>
 						<key>offset_y</key>
 						<string>-8,504028320312</string>
-						<key>type</key>
-						<string>message end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12941,12 +12941,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>message end</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>message end</string>
 					</dict>
 				</dict>
 				<dict>
@@ -12999,12 +12999,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message intermediate throwing</string>
 						<key>offset_x</key>
 						<string>-5,668991088867</string>
 						<key>offset_y</key>
 						<string>-8,504028320312</string>
-						<key>type</key>
-						<string>message intermediate throwing</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13040,12 +13040,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message intermediate throwing</string>
 						<key>offset_x</key>
 						<string>-5,668991088867</string>
 						<key>offset_y</key>
 						<string>-8,504028320312</string>
-						<key>type</key>
-						<string>message intermediate throwing</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13085,12 +13085,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>message intermediate throwing</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>message intermediate throwing</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13113,12 +13113,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-5,668991088867</string>
 						<key>offset_y</key>
 						<string>-8,504028320312</string>
-						<key>type</key>
-						<string>message intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13134,12 +13134,12 @@ aufgabe\
 					<string>Rectangle</string>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-5,668991088867</string>
 						<key>offset_y</key>
 						<string>-8,504028320312</string>
-						<key>type</key>
-						<string>message intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13174,12 +13174,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>message intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>-1,4169921875</string>
 						<key>offset_y</key>
 						<string>-1,4169921875</string>
-						<key>type</key>
-						<string>message intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13216,12 +13216,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>message intermediate non-interrupting</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>message intermediate non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13250,12 +13250,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message intermediate</string>
 						<key>offset_x</key>
 						<string>-5,668998718262</string>
 						<key>offset_y</key>
 						<string>-8,504028320312</string>
-						<key>type</key>
-						<string>message intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13279,12 +13279,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message intermediate</string>
 						<key>offset_x</key>
 						<string>-5,668998718262</string>
 						<key>offset_y</key>
 						<string>-8,504028320312</string>
-						<key>type</key>
-						<string>message intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13324,12 +13324,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>message intermediate</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>message intermediate</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13358,12 +13358,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-5,669296264648</string>
 						<key>offset_y</key>
 						<string>-8,504028320312</string>
-						<key>type</key>
-						<string>message start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13387,12 +13387,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message start non-interrupting</string>
 						<key>offset_x</key>
 						<string>-5,669296264648</string>
 						<key>offset_y</key>
 						<string>-8,504028320312</string>
-						<key>type</key>
-						<string>message start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13430,12 +13430,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>message start non-interrupting</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>message start non-interrupting</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13464,12 +13464,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message start</string>
 						<key>offset_x</key>
 						<string>-5,669300079346</string>
 						<key>offset_y</key>
 						<string>-8,504028320312</string>
-						<key>type</key>
-						<string>message start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13493,12 +13493,12 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
+						<key>item_type</key>
+						<string>message start</string>
 						<key>offset_x</key>
 						<string>-5,669300079346</string>
 						<key>offset_y</key>
 						<string>-8,504028320312</string>
-						<key>type</key>
-						<string>message start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13531,12 +13531,12 @@ aufgabe\
 					<dict>
 						<key>connect</key>
 						<string>true</string>
+						<key>item_type</key>
+						<string>message start</string>
 						<key>offset_x</key>
 						<string>0,0</string>
 						<key>offset_y</key>
 						<string>0,0</string>
-						<key>type</key>
-						<string>message start</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13567,7 +13567,7 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>forked conversation link</string>
 					</dict>
 				</dict>
@@ -13599,7 +13599,7 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>conversation link</string>
 					</dict>
 				</dict>
@@ -13631,7 +13631,7 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>communication</string>
 					</dict>
 				</dict>
@@ -13673,7 +13673,7 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>message flow</string>
 					</dict>
 				</dict>
@@ -13713,7 +13713,7 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>default flow</string>
 					</dict>
 				</dict>
@@ -13753,7 +13753,7 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>conditional flow</string>
 					</dict>
 				</dict>
@@ -13793,7 +13793,7 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>sequence flow</string>
 					</dict>
 				</dict>
@@ -13834,7 +13834,7 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>ad hoc marker</string>
 					</dict>
 				</dict>
@@ -13964,7 +13964,7 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>manual task</string>
 					</dict>
 				</dict>
@@ -14013,7 +14013,7 @@ aufgabe\
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>loop marker</string>
 					</dict>
 				</dict>
@@ -14052,7 +14052,7 @@ aufgabe\
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -14062,7 +14062,7 @@ Aktivit\'e4t}</string>
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>call activity</string>
 					</dict>
 				</dict>
@@ -14102,7 +14102,7 @@ Aktivit\'e4t}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -14112,7 +14112,7 @@ Teilprozess}</string>
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>event sub-process</string>
 					</dict>
 				</dict>
@@ -14154,7 +14154,7 @@ Teilprozess}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -14163,7 +14163,7 @@ Teilprozess}</string>
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>transaction</string>
 					</dict>
 				</dict>
@@ -14201,7 +14201,7 @@ Teilprozess}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
@@ -14210,7 +14210,7 @@ Teilprozess}</string>
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>task</string>
 					</dict>
 				</dict>
@@ -14246,7 +14246,7 @@ Teilprozess}</string>
 					<dict>
 						<key>connect</key>
 						<string>true</string>
-						<key>type</key>
+						<key>item_type</key>
 						<string>gateway</string>
 					</dict>
 				</dict>
@@ -14281,7 +14281,7 @@ Teilprozess}</string>
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string></string>
 					</dict>
 				</dict>
@@ -14316,7 +14316,7 @@ Teilprozess}</string>
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string></string>
 					</dict>
 				</dict>
@@ -14356,7 +14356,7 @@ Teilprozess}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
@@ -14367,7 +14367,7 @@ Teilprozess}</string>
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>data store</string>
 					</dict>
 				</dict>
@@ -14401,7 +14401,7 @@ Teilprozess}</string>
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string></string>
 					</dict>
 				</dict>
@@ -14435,7 +14435,7 @@ Teilprozess}</string>
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string></string>
 					</dict>
 				</dict>
@@ -14469,7 +14469,7 @@ Teilprozess}</string>
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string></string>
 					</dict>
 				</dict>
@@ -14508,7 +14508,7 @@ Teilprozess}</string>
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>collection data object</string>
 					</dict>
 				</dict>
@@ -14547,7 +14547,7 @@ Teilprozess}</string>
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>data object</string>
 					</dict>
 				</dict>
@@ -14584,7 +14584,7 @@ Teilprozess}</string>
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>end</string>
 					</dict>
 				</dict>
@@ -14625,7 +14625,7 @@ Teilprozess}</string>
 					<dict>
 						<key>connect</key>
 						<string>true</string>
-						<key>type</key>
+						<key>item_type</key>
 						<string>intermediate</string>
 					</dict>
 				</dict>
@@ -14657,7 +14657,7 @@ Teilprozess}</string>
 					</dict>
 					<key>UserInfo</key>
 					<dict>
-						<key>type</key>
+						<key>item_type</key>
 						<string>start</string>
 					</dict>
 				</dict>
@@ -14744,7 +14744,7 @@ Teilprozess}</string>
 		<key>FitInWindow</key>
 		<true/>
 		<key>Frame</key>
-		<string>{{347, 152}, {1732, 1173}}</string>
+		<string>{{28, 4}, {1019, 1173}}</string>
 		<key>ListView</key>
 		<false/>
 		<key>OutlineWidth</key>
@@ -14758,9 +14758,9 @@ Teilprozess}</string>
 		<key>SidebarWidth</key>
 		<integer>200</integer>
 		<key>VisibleRegion</key>
-		<string>{{-24, 0}, {832.19136495863052, 558.4514235516715}}</string>
+		<string>{{0, 0}, {782.02735131175234, 1002.823630848777}}</string>
 		<key>Zoom</key>
-		<real>1.8228980302810669</real>
+		<real>1.0280970335006714</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
