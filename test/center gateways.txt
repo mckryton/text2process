@@ -1,0 +1,18 @@
+1,test,,start
+2,test,,gateway
+3,test,follow up task,task
+4,test,,exclusive gateway
+5,test,follow up task,task
+6,test,,event-based gateway
+7,test,follow up task,task
+8,test,,parallel gateway
+9,test,follow up task,task
+10,test,,inclusive gateway
+11,test,follow up task,task
+12,test,,exclusive event-based gateway
+13,test,follow up task,task
+14,test,,complex gateway
+15,test,follow up task,task
+16,test,,parallel event-based gateway
+17,test,follow up task,task
+18,test,,end

@@ -8,7 +8,7 @@
 		<string>139.18.0.187838</string>
 	</array>
 	<key>CreationDate</key>
-	<string>2014-02-04 15:44:58 +0000</string>
+	<string>2017-08-16 14:29:47 +0000</string>
 	<key>Creator</key>
 	<string>mac</string>
 	<key>GraphDocumentVersion</key>
@@ -26,7 +26,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2017-08-16 14:28:00 +0000</string>
+	<string>2017-08-16 14:29:48 +0000</string>
 	<key>Modifier</key>
 	<string>mac</string>
 	<key>NotesVisible</key>
@@ -85,7 +85,7 @@
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
-				<string>{{0, 0}, {783, 559}}</string>
+				<string>{{0, 0}, {2349, 559}}</string>
 				<key>Class</key>
 				<string>SolidGraphic</string>
 				<key>ID</key>
@@ -114,12 +114,2647 @@
 			<real>36</real>
 			<key>DisplayScale</key>
 			<string>1 pt = 1 px</string>
+			<key>ExportShapes</key>
+			<array>
+				<dict>
+					<key>InspectorGroup</key>
+					<real>255</real>
+					<key>ShapeImageRect</key>
+					<string>{{2, 2}, {22, 22}}</string>
+					<key>ShapeName</key>
+					<string>75465A0B-497C-4C91-958D-7B0F8EBF217E-57510-000381B1B7748009</string>
+					<key>ShouldExport</key>
+					<string>YES</string>
+					<key>StrokePath</key>
+					<dict>
+						<key>elements</key>
+						<array>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{-0.19642899999999999, 0}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, 0.30357200000000001}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.30357099999999998, 0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-4.76837e-07, 0.19642799999999999}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.30357200000000001, 0.50000199999999995}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, 0.30357400000000001}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.19642799999999999, 0}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, -0.30357000000000001}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.30357099999999998, -0.499998}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-9.5367399999999999e-07, -0.19642799999999999}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.30357099999999998, -0.499996}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.49999900000000003, -0.303568}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>CLOSE</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{-0.19642899999999999, 0}</string>
+							</dict>
+						</array>
+					</dict>
+					<key>TextBounds</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+			</array>
 			<key>GraphicsList</key>
-			<array/>
+			<array>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{28, 118}, {14, 17}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>82</integer>
+							<key>Shape</key>
+							<string>VerticalTriangle</string>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<string>1</string>
+										<key>g</key>
+										<string>0.501961</string>
+										<key>r</key>
+										<string>0</string>
+									</dict>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>TextRelativeArea</key>
+							<string>{{0.25, 0}, {0.5, 0.60000002384185791}}</string>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{24, 115}, {22, 22}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>83</integer>
+							<key>Shape</key>
+							<string>Rectangle</string>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<string>1</string>
+										<key>g</key>
+										<string>0.501961</string>
+										<key>r</key>
+										<string>0</string>
+									</dict>
+									<key>CornerRadius</key>
+									<real>8</real>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>81</integer>
+					<key>Layer</key>
+					<integer>0</integer>
+					<key>Link</key>
+					<dict>
+						<key>scriptSource</key>
+						<string>
+-- canvases
+local vCanvasProcess
+-- numbers
+local vSlideVector, vHeight, vWidth, vXOrigin, vYOrigin
+-- groups
+local vLane, vActionControl
+-- shapes
+local vLaneHead, vLaneBody
+-- graphics
+local vShapesBelow, vItem, vActionControlItems
+-- text
+local vLayerName
+
+set vCanvasProcess to canvas of self
+set vLayerLanes to layer "lanes" of vCanvasProcess
+	
+--get lane head and body
+set vLane to (first group of layer "lanes" of vCanvasProcess whose value of user data item "lane_id" is "test")
+set vLaneBody to first shape of vLane whose value of user data item "lane_item_type" is "swimlane_body"
+set vLaneHead to first shape of vLane whose value of user data item "lane_item_type" is "swimlane_head"
+
+set vSlideVector to (80 + 20 * 2)	
+--get all action graphics below extended lane body and move them down
+repeat with vLayerName in every item of {"lanes", "actions", "control"}
+	if text of vLayerName is "control" then
+		--move action controls
+		set vShapesBelow to (graphics of layer vLayerName of vCanvasProcess whose y of origin ≥ (y of origin of vLaneBody))
+	else
+		set vShapesBelow to (graphics of layer vLayerName of vCanvasProcess whose y of origin ≥ ((y of origin of vLaneBody) + (y of size of vLaneBody)))
+	end if
+	repeat with vItem in every item of vShapesBelow
+		slide vItem by {0, vSlideVector}
+	end repeat
+end repeat
+
+-- resize lane	
+set vWidth to x of size of vLaneBody
+--extend height of lane by height of one shape + padding 
+set vHeight to (y of size of vLaneBody) + 80 + 20 * 2
+set size of vLaneBody to {vWidth, vHeight}
+	
+--because of its rotation modify width of lane head
+set vWidth to (x of size of vLaneHead) + 80 + 20 * 2
+set vHeight to (y of size of vLaneHead)
+--because of its rotation adjust origin of lane head
+set vXOrigin to (x of origin of vLaneHead) - (( 80 + 20 * 2) / 2)
+set vYOrigin to (y of origin of vLaneHead) + ((80 + 20 * 2) / 2)
+set size of vLaneHead to {vWidth, vHeight}
+set origin of vLaneHead to {vXOrigin, vYOrigin}
+</string>
+					</dict>
+					<key>Notes</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 use OmniGraffle Professional action on this button to extend lane height}</string>
+					<key>UserInfo</key>
+					<dict>
+						<key>lane_id</key>
+						<string>test</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{120, 65.826751708984375}, {28.346499999999999, 28.346499999999999}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>335</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{0, 0.5}</string>
+						<string>{0, -0.5}</string>
+						<string>{0.5, 0}</string>
+						<string>{-0.5, 0}</string>
+					</array>
+					<key>Shape</key>
+					<string>Circle</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>1</string>
+						<key>item_type</key>
+						<string>start</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{188.34649658203125, 62.5}, {35, 35}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>73</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{1, 1}</string>
+						<string>{1, -1}</string>
+						<string>{-1, -1}</string>
+						<string>{-1, 1}</string>
+					</array>
+					<key>Rotation</key>
+					<real>45</real>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>connect</key>
+						<string>true</string>
+						<key>item_id</key>
+						<string>2</string>
+						<key>item_type</key>
+						<string>gateway</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>73</integer>
+					</dict>
+					<key>ID</key>
+					<integer>317</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{148.84650710087132, 80.000001708984371}</string>
+						<string>{181.09775924050209, 80}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>335</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{263.34649658203125, 40}, {130, 80}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>324</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{0.50000000000000011, 0}</string>
+						<string>{-0.5, 0}</string>
+						<string>{0.0015763400000000001, -0.50098600000000004}</string>
+						<string>{0.0015732375755010963, 0.50000000000000011}</string>
+					</array>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>a</key>
+								<string>0.5</string>
+								<key>b</key>
+								<string>1</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>0.999996</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>10</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs24 \cf0 follow up task}</string>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>3</string>
+						<key>item_type</key>
+						<string>task</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>324</integer>
+					</dict>
+					<key>ID</key>
+					<integer>336</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{231.09523392346389, 80}</string>
+						<string>{263.34649658203125, 80}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>73</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowConnections</key>
+					<string>NO</string>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>ID</key>
+					<integer>67</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Points</key>
+					<array>
+						<string>{455.95240771484379, 68.18389892578125}</string>
+						<string>{444.85540771484375, 90.923898925781259}</string>
+					</array>
+					<key>Rotation</key>
+					<real>44.875</real>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>0</string>
+							<key>Width</key>
+							<real>3</real>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>4</string>
+						<key>item_type</key>
+						<string>exclusive gateway</string>
+						<key>offset_x</key>
+						<string>-11,508911132812</string>
+						<key>offset_y</key>
+						<string>-5,683898925781</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowConnections</key>
+					<string>NO</string>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>ID</key>
+					<integer>68</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Points</key>
+					<array>
+						<string>{446.29638671875, 67.62591552734375}</string>
+						<string>{454.47638671875001, 91.5709155273438}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>0</string>
+							<key>Width</key>
+							<real>3</real>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>4</string>
+						<key>item_type</key>
+						<string>exclusive gateway</string>
+						<key>offset_x</key>
+						<string>-12,949890136719</string>
+						<key>offset_y</key>
+						<string>-5,125915527344</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{433.34649658203125, 62.5}, {35, 35}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>69</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{-0.5, 0.5}</string>
+						<string>{0.49416599999999999, -0.50020799999999999}</string>
+						<string>{-0.49990800000000002, -0.50009199999999998}</string>
+						<string>{0.50009199999999998, 0.49990800000000002}</string>
+					</array>
+					<key>Rotation</key>
+					<real>45</real>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>connect</key>
+						<string>true</string>
+						<key>item_id</key>
+						<string>4</string>
+						<key>item_type</key>
+						<string>exclusive gateway</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>69</integer>
+					</dict>
+					<key>ID</key>
+					<integer>337</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{393.84649658193473, 80}</string>
+						<string>{426.09775924050211, 80}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>324</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{508.34649658203125, 40}, {130, 80}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>338</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{0.50000000000000011, 0}</string>
+						<string>{-0.5, 0}</string>
+						<string>{0.0015763400000000001, -0.50098600000000004}</string>
+						<string>{0.0015732375755010963, 0.50000000000000011}</string>
+					</array>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>a</key>
+								<string>0.5</string>
+								<key>b</key>
+								<string>1</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>0.999996</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>10</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs24 \cf0 follow up task}</string>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>5</string>
+						<key>item_type</key>
+						<string>task</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>338</integer>
+					</dict>
+					<key>ID</key>
+					<integer>339</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{475.44576423193456, 79.850530308374204}</string>
+						<string>{508.34649658203125, 80}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>69</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{686.34649658203125, 70.5}, {18.850300000000001, 18.850300000000001}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>63</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Shape</key>
+					<string>Pentagon</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>6</string>
+						<key>item_type</key>
+						<string>event-based gateway</string>
+						<key>offset_x</key>
+						<string>-8</string>
+						<key>offset_y</key>
+						<string>-8</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{682.34649658203125, 66.5}, {26.929099999999998, 26.929099999999998}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>64</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Shape</key>
+					<string>Circle</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>GapRatio</key>
+							<real>0.5</real>
+							<key>Width</key>
+							<real>4</real>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>6</string>
+						<key>item_type</key>
+						<string>event-based gateway</string>
+						<key>offset_x</key>
+						<string>-4</string>
+						<key>offset_y</key>
+						<string>-4</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{678.34649658203125, 62.5}, {35, 35}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>65</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{0.5, -0.5}</string>
+						<string>{-0.5, -0.5}</string>
+						<string>{-0.5, 0.5}</string>
+						<string>{0.5, 0.5}</string>
+					</array>
+					<key>Rotation</key>
+					<real>45</real>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>connect</key>
+						<string>true</string>
+						<key>item_id</key>
+						<string>6</string>
+						<key>item_type</key>
+						<string>event-based gateway</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>65</integer>
+					</dict>
+					<key>ID</key>
+					<integer>340</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{638.34649658203125, 80}</string>
+						<string>{671.09775924050211, 80}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>338</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{753.34649658203125, 40}, {130, 80}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>341</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{0.50000000000000011, 0}</string>
+						<string>{-0.5, 0}</string>
+						<string>{0.0015763400000000001, -0.50098600000000004}</string>
+						<string>{0.0015732375755010963, 0.50000000000000011}</string>
+					</array>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>a</key>
+								<string>0.5</string>
+								<key>b</key>
+								<string>1</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>0.999996</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>10</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs24 \cf0 follow up task}</string>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>7</string>
+						<key>item_type</key>
+						<string>task</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>341</integer>
+					</dict>
+					<key>ID</key>
+					<integer>342</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{721.09523392346409, 80}</string>
+						<string>{753.34649658203125, 80}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>65</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{931.34649658203125, 70.5}, {17.4605, 17.4605}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>71</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Rotation</key>
+					<real>45</real>
+					<key>Shape</key>
+					<string>75465A0B-497C-4C91-958D-7B0F8EBF217E-57510-000381B1B7748009</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<string>0</string>
+								<key>g</key>
+								<string>0</string>
+								<key>r</key>
+								<string>0</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Width</key>
+							<real>0.25</real>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>8</string>
+						<key>item_type</key>
+						<string>parallel gateway</string>
+						<key>offset_x</key>
+						<string>-8</string>
+						<key>offset_y</key>
+						<string>-8</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{923.34649658203125, 62.5}, {35, 35}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>72</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{0.5, -0.5}</string>
+						<string>{-0.48194799999999999, -0.48213200000000001}</string>
+						<string>{-0.48194799999999999, 0.48946200000000001}</string>
+						<string>{0.50009199999999998, 0.49990800000000002}</string>
+					</array>
+					<key>Rotation</key>
+					<real>45</real>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>connect</key>
+						<string>true</string>
+						<key>item_id</key>
+						<string>8</string>
+						<key>item_type</key>
+						<string>parallel gateway</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>72</integer>
+					</dict>
+					<key>ID</key>
+					<integer>343</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{883.84649659826994, 80}</string>
+						<string>{916.80532564109637, 80.185962012384252}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>341</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{998.34649658203125, 40}, {130, 80}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>344</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{0.50000000000000011, 0}</string>
+						<string>{-0.5, 0}</string>
+						<string>{0.0015763400000000001, -0.50098600000000004}</string>
+						<string>{0.0015732375755010963, 0.50000000000000011}</string>
+					</array>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>a</key>
+								<string>0.5</string>
+								<key>b</key>
+								<string>1</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>0.999996</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>10</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs24 \cf0 follow up task}</string>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>9</string>
+						<key>item_type</key>
+						<string>task</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>344</integer>
+					</dict>
+					<key>ID</key>
+					<integer>345</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{966.09523392346409, 80}</string>
+						<string>{998.34649658203125, 80}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>72</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{1172.346435546875, 66.5}, {26.929099999999998, 26.929099999999998}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>60</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Shape</key>
+					<string>Circle</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Width</key>
+							<real>3</real>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>10</string>
+						<key>item_type</key>
+						<string>inclusive gateway</string>
+						<key>offset_x</key>
+						<string>-4</string>
+						<key>offset_y</key>
+						<string>-4</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{1168.346435546875, 62.5}, {35, 35}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>61</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{-0.5, -0.5}</string>
+						<string>{0.5, 0.5}</string>
+						<string>{0.5, -0.5}</string>
+						<string>{-0.5, 0.5}</string>
+					</array>
+					<key>Rotation</key>
+					<real>45</real>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>connect</key>
+						<string>true</string>
+						<key>item_id</key>
+						<string>10</string>
+						<key>item_type</key>
+						<string>inclusive gateway</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>61</integer>
+					</dict>
+					<key>ID</key>
+					<integer>346</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{1128.8464965819346, 80}</string>
+						<string>{1161.0976982053458, 80}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>344</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{1243.346435546875, 40}, {130, 80}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>347</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{0.50000000000000011, 0}</string>
+						<string>{-0.5, 0}</string>
+						<string>{0.0015763400000000001, -0.50098600000000004}</string>
+						<string>{0.0015732375755010963, 0.50000000000000011}</string>
+					</array>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>a</key>
+								<string>0.5</string>
+								<key>b</key>
+								<string>1</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>0.999996</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>10</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs24 \cf0 follow up task}</string>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>11</string>
+						<key>item_type</key>
+						<string>task</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>347</integer>
+					</dict>
+					<key>ID</key>
+					<integer>348</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{1211.0951728883076, 80}</string>
+						<string>{1243.346435546875, 80}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>61</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{1421.346435546875, 70.5}, {18.850300000000001, 18.850300000000001}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>56</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Shape</key>
+					<string>Pentagon</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>12</string>
+						<key>item_type</key>
+						<string>exclusive event-based gateway</string>
+						<key>offset_x</key>
+						<string>-8</string>
+						<key>offset_y</key>
+						<string>-8</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{1417.346435546875, 66.5}, {26.929099999999998, 26.929099999999998}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>57</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Shape</key>
+					<string>Circle</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>12</string>
+						<key>item_type</key>
+						<string>exclusive event-based gateway</string>
+						<key>offset_x</key>
+						<string>-4</string>
+						<key>offset_y</key>
+						<string>-4</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{1413.346435546875, 62.5}, {35, 35}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>58</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{-0.5, -0.5}</string>
+						<string>{0.5, 0.5}</string>
+						<string>{0.5, -0.5}</string>
+						<string>{-0.5, 0.5}</string>
+					</array>
+					<key>Rotation</key>
+					<real>45</real>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>connect</key>
+						<string>true</string>
+						<key>item_id</key>
+						<string>12</string>
+						<key>item_type</key>
+						<string>exclusive event-based gateway</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>58</integer>
+					</dict>
+					<key>ID</key>
+					<integer>349</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{1373.8464355467784, 80}</string>
+						<string>{1406.0976982053458, 80}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>347</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{1488.346435546875, 40}, {130, 80}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>350</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{0.50000000000000011, 0}</string>
+						<string>{-0.5, 0}</string>
+						<string>{0.0015763400000000001, -0.50098600000000004}</string>
+						<string>{0.0015732375755010963, 0.50000000000000011}</string>
+					</array>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>a</key>
+								<string>0.5</string>
+								<key>b</key>
+								<string>1</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>0.999996</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>10</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs24 \cf0 follow up task}</string>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>13</string>
+						<key>item_type</key>
+						<string>task</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>350</integer>
+					</dict>
+					<key>ID</key>
+					<integer>351</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{1455.5951728884042, 80}</string>
+						<string>{1488.346435546875, 80}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>58</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowConnections</key>
+					<string>NO</string>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>ID</key>
+					<integer>46</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Points</key>
+					<array>
+						<string>{1685.3914355468751, 69.5}</string>
+						<string>{1665.346435546875, 89.543999999999983}</string>
+					</array>
+					<key>Rotation</key>
+					<real>135</real>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>Cap</key>
+							<integer>0</integer>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>0</string>
+							<key>Width</key>
+							<real>6</real>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>14</string>
+						<key>item_type</key>
+						<string>complex gateway</string>
+						<key>offset_x</key>
+						<string>-7</string>
+						<key>offset_y</key>
+						<string>-7</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowConnections</key>
+					<string>NO</string>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>ID</key>
+					<integer>47</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Points</key>
+					<array>
+						<string>{1665.346435546875, 69.5}</string>
+						<string>{1685.3914355468751, 89.543999999999983}</string>
+					</array>
+					<key>Rotation</key>
+					<real>45</real>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>Cap</key>
+							<integer>0</integer>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>0</string>
+							<key>Width</key>
+							<real>6</real>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>14</string>
+						<key>item_type</key>
+						<string>complex gateway</string>
+						<key>offset_x</key>
+						<string>-7</string>
+						<key>offset_y</key>
+						<string>-7</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowConnections</key>
+					<string>NO</string>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>ID</key>
+					<integer>48</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Points</key>
+					<array>
+						<string>{1675.346435546875, 65.5}</string>
+						<string>{1675.346435546875, 93.84699999999998}</string>
+					</array>
+					<key>Rotation</key>
+					<real>90</real>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>Cap</key>
+							<integer>0</integer>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>0</string>
+							<key>Width</key>
+							<real>6</real>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>14</string>
+						<key>item_type</key>
+						<string>complex gateway</string>
+						<key>offset_x</key>
+						<string>-17</string>
+						<key>offset_y</key>
+						<string>-3</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowConnections</key>
+					<string>NO</string>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>ID</key>
+					<integer>49</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Points</key>
+					<array>
+						<string>{1661.346435546875, 78.5}</string>
+						<string>{1689.693435546875, 78.5}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>Cap</key>
+							<integer>0</integer>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>0</string>
+							<key>Width</key>
+							<real>6</real>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>14</string>
+						<key>item_type</key>
+						<string>complex gateway</string>
+						<key>offset_x</key>
+						<string>-3</string>
+						<key>offset_y</key>
+						<string>-16</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{1658.346435546875, 62.5}, {35, 35}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>50</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{0.5, 0.5}</string>
+						<string>{0.5, -0.5}</string>
+						<string>{-0.5, 0.5}</string>
+						<string>{-0.5, -0.5}</string>
+					</array>
+					<key>Rotation</key>
+					<real>45</real>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>connect</key>
+						<string>true</string>
+						<key>item_id</key>
+						<string>14</string>
+						<key>item_type</key>
+						<string>complex gateway</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>50</integer>
+					</dict>
+					<key>ID</key>
+					<integer>352</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{1618.8464355467784, 80}</string>
+						<string>{1651.0976982053458, 80}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>350</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{1733.346435546875, 40}, {130, 80}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>353</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{0.50000000000000011, 0}</string>
+						<string>{-0.5, 0}</string>
+						<string>{0.0015763400000000001, -0.50098600000000004}</string>
+						<string>{0.0015732375755010963, 0.50000000000000011}</string>
+					</array>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>a</key>
+								<string>0.5</string>
+								<key>b</key>
+								<string>1</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>0.999996</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>10</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs24 \cf0 follow up task}</string>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>15</string>
+						<key>item_type</key>
+						<string>task</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>353</integer>
+					</dict>
+					<key>ID</key>
+					<integer>354</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{1700.5951728884042, 80}</string>
+						<string>{1733.346435546875, 80}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>50</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{1912.04638671875, 71.199996948242188}, {16.587399999999999, 16.587399999999999}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>52</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Rotation</key>
+					<real>44.999996185302734</real>
+					<key>Shape</key>
+					<string>75465A0B-497C-4C91-958D-7B0F8EBF217E-57510-000381B1B7748009</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>16</string>
+						<key>item_type</key>
+						<string>parallel event-based gateway</string>
+						<key>offset_x</key>
+						<string>-8,7</string>
+						<key>offset_y</key>
+						<string>-8,7</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{1906.846435546875, 66}, {26.929099999999998, 26.929099999999998}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>53</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Shape</key>
+					<string>Circle</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>16</string>
+						<key>item_type</key>
+						<string>parallel event-based gateway</string>
+						<key>offset_x</key>
+						<string>-3,5</string>
+						<key>offset_y</key>
+						<string>-3,5</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{1903.346435546875, 62.5}, {35, 35}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>54</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{0.5, 0.5}</string>
+						<string>{0.5, -0.5}</string>
+						<string>{-0.5, 0.5}</string>
+						<string>{-0.5, -0.5}</string>
+					</array>
+					<key>Rotation</key>
+					<real>45</real>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>connect</key>
+						<string>true</string>
+						<key>item_id</key>
+						<string>16</string>
+						<key>item_type</key>
+						<string>parallel event-based gateway</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>54</integer>
+					</dict>
+					<key>ID</key>
+					<integer>355</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{1863.8464355467784, 80}</string>
+						<string>{1896.0976982053458, 80}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>353</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{1978.346435546875, 40}, {130, 80}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>356</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{0.50000000000000011, 0}</string>
+						<string>{-0.5, 0}</string>
+						<string>{0.0015763400000000001, -0.50098600000000004}</string>
+						<string>{0.0015732375755010963, 0.50000000000000011}</string>
+					</array>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>a</key>
+								<string>0.5</string>
+								<key>b</key>
+								<string>1</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>0.999996</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>10</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs24 \cf0 follow up task}</string>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>17</string>
+						<key>item_type</key>
+						<string>task</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>356</integer>
+					</dict>
+					<key>ID</key>
+					<integer>357</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{1945.5951728884042, 80}</string>
+						<string>{1978.346435546875, 80}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>54</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{2148.346435546875, 65.826751708984375}, {28.346499999999999, 28.346499999999999}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>333</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>Magnets</key>
+					<array>
+						<string>{0, -0.5}</string>
+						<string>{0.5, 0}</string>
+						<string>{0, 0.5}</string>
+						<string>{-0.5, 0}</string>
+					</array>
+					<key>Shape</key>
+					<string>Circle</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Width</key>
+							<real>3</real>
+						</dict>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_id</key>
+						<string>18</string>
+						<key>item_type</key>
+						<string>end</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>333</integer>
+					</dict>
+					<key>ID</key>
+					<integer>358</integer>
+					<key>Layer</key>
+					<integer>1</integer>
+					<key>OrthogonalBarAutomatic</key>
+					<true/>
+					<key>OrthogonalBarPoint</key>
+					<string>{0, 0}</string>
+					<key>OrthogonalBarPosition</key>
+					<real>-1</real>
+					<key>Points</key>
+					<array>
+						<string>{2108.346435546875, 80}</string>
+						<string>{2148.346435546875, 80.000001708984371}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>5</real>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>2</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>356</integer>
+					</dict>
+					<key>UserInfo</key>
+					<dict>
+						<key>item_type</key>
+						<string>sequence flow</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{-10, 50}, {120, 60}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>77</integer>
+							<key>Rotation</key>
+							<real>270</real>
+							<key>Shape</key>
+							<string>Rectangle</string>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs24 \cf0 test}</string>
+							</dict>
+							<key>UserInfo</key>
+							<dict>
+								<key>lane_id</key>
+								<string>test</string>
+								<key>lane_item_type</key>
+								<string>swimlane_head</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{20, 20}, {2176.69287109375, 120}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>96</real>
+							</dict>
+							<key>ID</key>
+							<integer>78</integer>
+							<key>Shape</key>
+							<string>Rectangle</string>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red153\green153\blue153;}
+{\*\expandedcolortbl;;\csgenericrgb\c60000\c60000\c60000\c40000;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs192 \cf2 test}</string>
+								<key>alpha</key>
+								<array>
+									<array>
+										<integer>0</integer>
+										<integer>4</integer>
+										<real>0.40000000596046448</real>
+									</array>
+								</array>
+							</dict>
+							<key>UserInfo</key>
+							<dict>
+								<key>lane_id</key>
+								<string>test</string>
+								<key>lane_item_type</key>
+								<string>swimlane_body</string>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>76</integer>
+					<key>Layer</key>
+					<integer>2</integer>
+					<key>UserInfo</key>
+					<dict>
+						<key>lane_id</key>
+						<string>test</string>
+						<key>lane_item_type</key>
+						<string>swimlane</string>
+					</dict>
+				</dict>
+			</array>
 			<key>GridInfo</key>
 			<dict/>
 			<key>HPages</key>
-			<integer>1</integer>
+			<integer>3</integer>
 			<key>KeepToScale</key>
 			<false/>
 			<key>Layers</key>
@@ -14922,9 +17557,9 @@ Teilprozess}</string>
 		<key>SidebarWidth</key>
 		<integer>200</integer>
 		<key>VisibleRegion</key>
-		<string>{{-37, 0}, {856.40670485883788, 559.00001280785966}}</string>
+		<string>{{0, -486}, {2346.8664585233028, 1531.8637429270286}}</string>
 		<key>Zoom</key>
-		<real>1.2844364643096924</real>
+		<real>0.46871009469032288</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
