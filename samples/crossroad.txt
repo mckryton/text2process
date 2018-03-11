@@ -1,9 +1,9 @@
 1,driver,,start
-2,driver,drive on road,task
+,driver,drive on road,task
 3,driver,arrive at crossroad,task
 4,driver,check traffic light,task
 5,traffic light,,exclusive gateway
-6,traffic light,,timer start non-interrupting
+,traffic light,,timer start non-interrupting
 7,driver,wait on traffic light switch,task
 12,traffic light,,timer intermediate non-interrupting
 8,traffic light,switch traffic light,task
