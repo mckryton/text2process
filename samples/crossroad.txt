@@ -1,5 +1,5 @@
 1,driver,,start
-,driver,drive on road,task
+,driver,drive on road,
 3,driver,arrive at crossroad,task
 4,driver,check traffic light,task
 5,traffic light,,exclusive gateway
